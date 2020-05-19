@@ -4,28 +4,37 @@
 HTML Structure:  
 File Type / File Head / File Body / File Elements
 
-Run this code by chrome browser  
-    google-chrome Code\ 1.1\ simple.html
+Run this code by chrome browser 
+``` 
+google-chrome Code\ 1.1\ simple.html
+```
 
 ## Code 1.2 
 A code for a simple HTML example
 
 Run this code by chrome browser  
-    google-chrome Code\ 1.2\ HTML_example.html
+``` 
+google-chrome Code\ 1.2\ HTML_example.html
+``` 
 
+## Code 1.3
+A Code for the personal ressume
+``` 
+google-chrome Code\ 1.3\ Jingsheng_Homepage.html
+``` 
 
 # Contents for CH1
 
-#### HTML Single Element
+## HTML Single Element
 <meta charset="UTF-8">  
 <imag src="a.jpg" width="100" height="200" />  
 <link rel="stylesheet" type="text/css" href="some.css">  
 
-#### HTML Global Character
+## HTML Global Character
 four examples:  
 id / class / style / title
 
-#### HTML Explain
+## HTML Explain
 <!doctype>: document type for HTML5  
 <!---->: comment  
 
@@ -46,6 +55,6 @@ id / class / style / title
 * Define .js file of the document
 <script type="..." src="..."></script>
 
-#### HTML Containers
+## HTML Containers
 - <div>: block
 - <inline>: inline
