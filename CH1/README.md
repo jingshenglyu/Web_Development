@@ -58,3 +58,19 @@ id / class / style / title
 ## HTML Containers
 - <div>: block
 - <inline>: inline
+
+## Application of CSS in HTML 
+* internal document <style>
+* style of elements in line <a style = "..." >... </a>
+* external document <link rel="stylesheet" type="text/css" href="common.css" />
+
+## CSS Rule
+* selector 
+    {declaration-block}
+* selector-group 
+    {declaration-block}
+    *** If there is a selector is wrong, then all of them are WRONG.
+
+## Simple CSS-Selector
+[link] Reference: https://www.w3.org/TR/selectors/#overview
+type / ID / Class
