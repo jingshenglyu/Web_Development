@@ -1,0 +1,25 @@
+body{
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+}
+table{
+    margin: 0 auto;
+}
+ul, ol.info{
+    list-style-type: none;
+} 
+a[target="_blank"] {
+    text-decoration: none;
+    color: pink;
+    background-color: yellowgreen;
+}
+
+h3 {
+    border: 1px solid red;
+}
+
+#work-records {
+    border: 1px solid blue;
+
+}
