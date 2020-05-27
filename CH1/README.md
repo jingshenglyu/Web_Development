@@ -72,5 +72,5 @@ id / class / style / title
     *** If there is a selector is wrong, then all of them are WRONG.
 
 ## Simple CSS-Selector
-[link] Reference: https://www.w3.org/TR/selectors/#overview
+[CSS Selectors](https://www.w3.org/TR/selectors/#overview)
 type / ID / Class
