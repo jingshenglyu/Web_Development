@@ -21,6 +21,12 @@ h3 {
 }
 
 #work-records {
-    border: 1px solid blue;
+    border: 1px solid blue; 
+}
 
+{
+    color：red;
+    font-weight: bold;
+    font-style： italic;
+    text-decoration: underline；
 }
