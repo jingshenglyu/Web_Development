@@ -23,10 +23,9 @@ h3 {
 #work-records {
     border: 1px solid blue; 
 }
-
-{
-    color：red;
+.outline {
+    color: red;
     font-weight: bold;
-    font-style： italic;
-    text-decoration: underline；
+    font-style: italic;
+    text-decoration: underline;
 }
