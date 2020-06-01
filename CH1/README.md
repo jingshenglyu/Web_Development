@@ -74,3 +74,9 @@ id / class / style / title
 ## Simple CSS-Selector
 [CSS Selectors](https://www.w3.org/TR/selectors/#overview)
 type / ID / Class
+
+## CSS Rules
+* Selectors:
+    1. Specificity
+    2. ID>Class>Type, I-C-T
+    3. Order
