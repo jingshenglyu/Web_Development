@@ -1,0 +1,71 @@
+body{
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: grey;
+}
+table{
+    margin: 0 auto;
+}
+ul, ol.info{
+    list-style-type: none;
+} 
+a[target="_blank"] {
+    text-decoration: none;
+    color: pink;
+    background-color: yellowgreen;
+}
+
+h3 {
+    border: 1px solid red;
+}
+
+#work-records {
+    border: 1px solid blue; 
+}
+
+.outline {
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+input[disabled]{
+    cursor: not-allowed;
+}
+
+a[href^="#"]{
+    background-color: blue;
+    color: white;
+}
+
+ul#partime-jobs>* li{
+    /* We wanna select ul#partime-jobs which include the child elements - li. */
+    color: red;
+}
+
+a:hover{
+    background-color: blue !important;
+    color: white;
+}
+
+h3:target{
+    background-color: yellow;
+    color:red
+}
+
+/* p>span{
+    color: red;
+    font-weight: bold;
+}
+
+p{
+    width: 50vw;
+} */
+
+h3::before{
+    content:"--";
+    color:red;
+}
+
